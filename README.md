@@ -11,6 +11,8 @@
 
 ## SHAP (SHapley Additive exPlanations) Values
 
-1.[Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
+ 1.Original SHAP paper [a-unified-approach-to-interpreting-model-predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 
-2.[Explain Any Models with the SHAP Values — Use the KernelExplainer](https://towardsdatascience.com/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a)
+ 2.[Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
+
+ 3.[Explain Any Models with the SHAP Values — Use the KernelExplainer](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)

@@ -12,5 +12,4 @@
 ## SHAP (SHapley Additive exPlanations) Values
 
 1.[Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
-
-2.Python implementation of [SHAP](https://gist.github.com/ChrisKuoColumbiaU/70009278eefe65765a1acc3750eb69be#file-abs_shap)
+2.[Explain Any Models with the SHAP Values — Use the KernelExplainer](https://towardsdatascience.com/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a)
